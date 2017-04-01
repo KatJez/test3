@@ -6,6 +6,12 @@ import org.openqa.selenium.WebDriver;
 import pl.lait.PageObjects.MainPage;
 import pl.lait.Setup.Init;
 
+/**
+ * klasa uruchamiająca WebDrivera, po niej dziedziczą klasy z testami
+ * @author KJ1
+ *
+ */
+
 public class MainPageTest extends Init{
 	
 	protected static WebDriver driver;	
