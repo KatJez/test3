@@ -8,6 +8,7 @@ import pl.lait.Setup.Init;
 
 /**
  * klasa uruchamiająca WebDrivera, po niej dziedziczą klasy z testami
+ *     
  * @author KJ1
  *
  */
